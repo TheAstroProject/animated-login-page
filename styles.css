@@ -208,3 +208,18 @@ body {
 .container.active .toggle-right {
     transform: translateX(200%);
 }
+
+/* FOOTER */
+footer {
+    align-items: center;
+    bottom: 0;
+    color: black;
+    display: flex;
+    font-family: sans-serif;
+    font-size: 14px;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 8px;
+    position: fixed;
+    width: 100%;
+}
