@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
- * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -30,7 +30,7 @@ body {
 
 .container, p {
     font-size: 14px;
-    line-height: 20px; 
+    line-height: 20px;
     letter-spacing: 0.3px;
     margin: 20px 0;
 }
@@ -101,7 +101,7 @@ body {
 
 .container.active, .sign-in {
     transform: translateX(100%);
-} 
+}
 
 .sign-up {
     left: 0;
